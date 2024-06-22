@@ -1,6 +1,8 @@
 # Análisis Sociodemográfico con R - 1ra edición
 # Junio 2022
 
+### Andrés Peña M.
+
 ## Sociedad Ecuatoriana de Estadística
 
 - Material del Curso 
