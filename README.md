@@ -24,3 +24,7 @@
 - [Methodology of the United Nations population estimates and projections - WPP 2022](https://population.un.org/wpp/Publications/)
 
 - [Censo Ecuador 2022](https://www.censoecuador.gob.ec/)
+
+
+#### Evaluaciones:
+* [Evaluación](https://forms.gle/8ugyf2cmU29yusRy7), 50% cuestionario y 50% ejercicio WPP 2024
