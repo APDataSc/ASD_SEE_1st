@@ -2,6 +2,7 @@
 # Junio 2022
 
 ### Andrés Peña M.
+(http://rusersgroup.com/)
 
 ## Sociedad Ecuatoriana de Estadística
 
