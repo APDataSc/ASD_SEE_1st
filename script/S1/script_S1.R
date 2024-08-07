@@ -101,7 +101,11 @@ data2 <- data1 %>%
          filter(Área=="Urbana")
   
 
-# Con data.table
+# data.table
 tic()
 censo <- fread("data/CPV_Población_2022_Nacional.csv")
 toc()
+
+
+# Hola mundo
+
